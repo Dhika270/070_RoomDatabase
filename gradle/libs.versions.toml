@@ -8,7 +8,7 @@ lifecycleRuntimeKtx = "2.11.0"
 activityCompose = "1.13.0"
 kotlin = "2.2.10"
 composeBom = "2026.02.01"
-room = "2.1.6"
+room = "2.7.1"
 kspver = "2.2.10-2.0.2"
 
 [libraries]
