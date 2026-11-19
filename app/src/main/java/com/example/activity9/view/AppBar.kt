@@ -1,4 +1,4 @@
-package com.example.activity9
+package com.example.activity9.view
 
 import androidx.compose.material3.ExperimentalMaterial3Api
 import androidx.compose.material.icons.Icons
@@ -11,6 +11,7 @@ import androidx.compose.material3.TopAppBarScrollBehavior
 import androidx.compose.runtime.Composable
 import androidx.compose.ui.Modifier
 import androidx.compose.ui.res.stringResource
+import com.example.activity9.R
 
 @OptIn(ExperimentalMaterial3Api::class)
 @Composable
